@@ -1,0 +1,8 @@
+data/*
+!data/README.md
+venv/
+*.csv
+.env
+*.pem
+.ipynb_checkpoints/
+__pycache__/
